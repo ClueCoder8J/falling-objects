@@ -1,0 +1,2 @@
+1. Make an object that when collected increases speed
+    -Every 10 
